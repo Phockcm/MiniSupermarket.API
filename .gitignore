@@ -1,0 +1,9 @@
+cat << 'EOF' > .gitignore
+## Visual Studio / .NET rác
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+EOF

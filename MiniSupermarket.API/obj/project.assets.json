@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "version": 3,
+=======
+  "version": 4,
+>>>>>>> 274e3b180fd1c63428ba4b6b4eef694de56f4076
   "targets": {
     "net8.0": {
       "Azure.Core/1.38.0": {
@@ -4163,7 +4167,11 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Admin\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
+>>>>>>> 274e3b180fd1c63428ba4b6b4eef694de56f4076
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -4172,14 +4180,22 @@
       "projectUniqueName": "D:\\MiniSupermarket.API\\MiniSupermarket.API\\MiniSupermarket.API.csproj",
       "projectName": "MiniSupermarket.API",
       "projectPath": "D:\\MiniSupermarket.API\\MiniSupermarket.API\\MiniSupermarket.API.csproj",
+<<<<<<< HEAD
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+=======
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+>>>>>>> 274e3b180fd1c63428ba4b6b4eef694de56f4076
       "outputPath": "D:\\MiniSupermarket.API\\MiniSupermarket.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 274e3b180fd1c63428ba4b6b4eef694de56f4076
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4192,6 +4208,10 @@
       },
       "frameworks": {
         "net8.0": {
+<<<<<<< HEAD
+=======
+          "framework": "net8.0",
+>>>>>>> 274e3b180fd1c63428ba4b6b4eef694de56f4076
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -4206,10 +4226,18 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
+<<<<<<< HEAD
       "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
+=======
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net8.0": {
+        "framework": "net8.0",
+>>>>>>> 274e3b180fd1c63428ba4b6b4eef694de56f4076
         "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
@@ -4260,7 +4288,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 274e3b180fd1c63428ba4b6b4eef694de56f4076
       }
     }
   }

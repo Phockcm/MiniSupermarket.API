@@ -46,7 +46,11 @@ namespace MiniSupermarket.API.Controllers
             }
 
             var result = await _context.Customers
+<<<<<<< HEAD
                 .Where(c => c.FullName.Contains(keyword) || c.PhoneNumber.Contains(keyword))
+=======
+                .Where(c => c.CustomerName.Contains(keyword) || c.PhoneNumber.Contains(keyword))
+>>>>>>> 274e3b180fd1c63428ba4b6b4eef694de56f4076
                 .ToListAsync();
 
             return Ok(result);
@@ -77,7 +81,11 @@ namespace MiniSupermarket.API.Controllers
                 return NotFound(new { message = "Không tìm thấy khách hàng cần sửa!" });
             }
 
+<<<<<<< HEAD
             customer.FullName   = updateCustomer.FullName;
+=======
+            customer.CustomerName = updateCustomer.CustomerName;
+>>>>>>> 274e3b180fd1c63428ba4b6b4eef694de56f4076
             customer.PhoneNumber = updateCustomer.PhoneNumber;
             customer.Address = updateCustomer.Address;
             customer.RewardPoints = updateCustomer.RewardPoints;

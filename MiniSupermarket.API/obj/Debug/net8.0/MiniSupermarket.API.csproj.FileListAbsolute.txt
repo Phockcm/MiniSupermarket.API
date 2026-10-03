@@ -192,3 +192,7 @@ D:\MiniSupermarket.API\MiniSupermarket.API\obj\Debug\net8.0\staticwebassets.upTo
 D:\MiniSupermarket.API\MiniSupermarket.API\obj\Debug\net8.0\MiniSupe.4C4B8D95.Up2Date
 D:\MiniSupermarket.API\MiniSupermarket.API\obj\Debug\net8.0\MiniSupermarket.API.genruntimeconfig.cache
 D:\MiniSupermarket.API\MiniSupermarket.API\obj\Debug\net8.0\ref\MiniSupermarket.API.dll
+<<<<<<< HEAD
+=======
+D:\MiniSupermarket.API\MiniSupermarket.API\obj\Debug\net8.0\swae.build.ex.cache
+>>>>>>> 274e3b180fd1c63428ba4b6b4eef694de56f4076
